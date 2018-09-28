@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Spirax');
+
+
+body {
+    background-color: #e09100;
+    font-family: 'Spirax', cursive;
+}
+
+nav a {
+    color: black;
+}
+nav {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.tel:before {
+    content: "\2706";
+    font-size: 20px;
+}
+
+.container1 {
+    position: static;
+    float: left;
+}
+
+.container2 {
+    position: static;
+    float: right;
+}
